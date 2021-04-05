@@ -19,7 +19,7 @@ Merupakan singkatan dari (Attribute Relation File Format) adalah file teks ASCII
 
 IBK Classifier adalah Simple instance-based learner, yang digunakan untuk class K Nearest Neightbours untuk menguji class dari instance.
 
-# Generic Object Editor\
+# Generic Object Editor
 
 GenericObjectEditor adalah komponen inti di Weka untuk memodifikasi skema, seperti pengklasifikasi dan filter di GUI, yang harus dikonfigurasi dengan benar untuk menampilkan skema default dan additional.
 
